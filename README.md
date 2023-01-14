@@ -1,3 +1,2 @@
-<div>
-<h1>Hello world!</h1>
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauedavila)](https://github.com/anuraghazra/github-readme-stats)
+
